@@ -1,0 +1,6 @@
+@lab10_kalinichenko_IKM724a_HostAddress = http://localhost:5107
+
+GET {{lab10_kalinichenko_IKM724a_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
